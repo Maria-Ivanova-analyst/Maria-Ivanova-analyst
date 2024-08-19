@@ -3,6 +3,8 @@
 ![Static Badge](https://img.shields.io/badge/CodePen-link-lightblue)
 ![Static Badge](https://img.shields.io/badge/Linkedin-link-darkblue)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Maria-Ivanova-analyst)](https://git.io/streak-stats)
+
 
 Я системный аналитик с опытом в разработке и внедрении программных решений, а также в анализе бизнес-требований. Моя цель — помогать компаниям оптимизировать процессы и достигать их бизнес-целей через высококачественное решение проблем.
 
